@@ -1,6 +1,6 @@
 node {
    
-   def IMAGE="ludo-forma/app:3.5"
+   def IMAGE="francois_forma/app:3.5"
    
     stage('Clone') {
           checkout scm
